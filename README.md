@@ -4,7 +4,7 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/MEUS-CURSOS-03A9F4?logo=github)](https://github.com/VILHALVA?tab=repositories&q=CURSO&type=public&language=&sort=) <br>
 
-<img src="https://cdn.icon-icons.com/icons2/542/PNG/512/calculator_icon-icons.com_53152.png" align="center" width="280"> <br>
+<img src="FOTO.png" align="center" width="300"> <br>
 
 Este é um projeto de uma calculadora simples desenvolvida em HTML, CSS e JavaScript. A calculadora é capaz de realizar operações básicas de adição, subtração, multiplicação e divisão, além de calcular a raiz quadrada de um número.
 
