@@ -27,5 +27,3 @@ Este é um projeto de uma calculadora simples desenvolvida em HTML, CSS e JavaSc
 
 ## CREDITOS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
-
